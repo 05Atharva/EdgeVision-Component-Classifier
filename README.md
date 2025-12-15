@@ -56,7 +56,8 @@ python inference/image_inference.py
 con1.jfif → Capacitor ⚡ (Confidence: 0.99)
 ind1.jfif → Inductor 🌀 (Confidence: 0.99)
 
-🛠 Tech Stack
+
+## 🛠 Tech Stack
 
 Python
 
@@ -70,7 +71,7 @@ Matplotlib
 
 Scikit-learn
 
-🚀 Future Scope
+## 🚀 Future Scope
 
 TensorFlow Lite (TFLite) model conversion
 
