@@ -56,6 +56,7 @@ python inference/image_inference.py
 
 con1.jfif → Capacitor ⚡ (Confidence: 0.99)
 ind1.jfif → Inductor 🌀 (Confidence: 0.99)
+```bash
 
 ## 🛠 Tech Stack
 
