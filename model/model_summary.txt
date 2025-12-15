@@ -1,0 +1,14 @@
+Model: MobileNetV2 (Transfer Learning)
+
+Input Shape: 96 x 96 x 3
+Total Parameters: ~2.42M
+Trainable Parameters: ~2.39M
+Non-Trainable Parameters: ~34K
+
+Classification Head:
+- GlobalAveragePooling2D
+- Dense (128, ReLU)
+- Dropout (0.4)
+- Dense (1, Sigmoid)
+
+Optimized for lightweight edge deployment.
