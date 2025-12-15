@@ -55,42 +55,39 @@ Run inference on a folder of test images:
 python inference/image_inference.py
 con1.jfif → Capacitor ⚡ (Confidence: 0.99)
 ind1.jfif → Inductor 🌀 (Confidence: 0.99)
-
+```
 
 ## 🛠 Tech Stack
 
-Python
+- Python
+- TensorFlow / Keras
+- MobileNetV2
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-TensorFlow / Keras
-
-MobileNetV2
-
-NumPy
-
-Matplotlib
-
-Scikit-learn
+---
 
 ## 🚀 Future Scope
 
-TensorFlow Lite (TFLite) model conversion
+- TensorFlow Lite (TFLite) model conversion
+- Deployment on ESP32-CAM
+- Conveyor-belt-based automated component segregation
+- Real-time edge inference and control logic
+- Extension to multi-class component classification
 
-Deployment on ESP32-CAM
+---
 
-Conveyor-belt-based automated component segregation
+## ⚠️ PS (Important)
 
-Real-time edge inference and control logic
+> **Note:**  
+> This repository currently contains **only the trained ML model and inference pipeline**.  
+> Hardware integration (ESP32, camera module, conveyor belt) is **planned future work** and is  
+> **not part of the present implementation**.
 
-Extension to multi-class component classification
+---
 
-⚠️ PS (Important)
+## 👤 Author
 
-Note:
-This repository currently contains only the trained ML model and inference pipeline.
-Hardware integration (ESP32, camera module, conveyor belt) is planned future work and is
-not part of the present implementation.
-
-👤 Author
-
-Atharva Kanawade
+**Atharva Kanawade**  
 Electronics & Telecommunication | Machine Learning | Embedded Systems | Edge AI
