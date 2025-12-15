@@ -1,0 +1,4 @@
+con1.jfif: Capacitor ⚡ (Confidence: 0.9888)
+con2.jfif: Capacitor ⚡ (Confidence: 0.9744)
+ind1.jfif: Inductor 🌀 (Confidence: 0.9350)
+ind2.jfif: Inductor 🌀 (Confidence: 0.9933)
